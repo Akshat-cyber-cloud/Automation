@@ -31,7 +31,11 @@ jobs:
         with:
           node-version: "20"
 
-      # 3. Run the bot
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Run the bot
       - name: Run Auto-Commit Bot
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
@@ -42,7 +46,7 @@ jobs:
           GIT_USER_EMAIL:  "bot@users.noreply.github.com"
         run: node autocommit.js
 
-      # 4. Print a summary in the Actions UI
+      # 5. Print a summary in the Actions UI
       - name: Job summary
         if: always()
         run: |
