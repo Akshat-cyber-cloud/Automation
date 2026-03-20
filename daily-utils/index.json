@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-03-20",
+    "title": "Split Array at Given Index",
+    "filename": "splitAtIndex.js",
+    "category": "Array",
+    "difficulty": "Beginner",
+    "description": "Splits an array into two parts at a specified index.",
+    "explanation": "The `splitAtIndex` function leverages native `Array.slice` for efficient partitioning, while `splitAtDelimiter` manually iterates to handle arbitrary delimiters. Both are useful for data transformation tasks such as splitting logs, parsing streams, or reorganizing datasets without external libraries.",
+    "generatedAt": "2026-03-20T18:19:39.838Z",
+    "generatedBy": "mistral-small-latest"
+  }
+]
