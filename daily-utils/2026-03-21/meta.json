@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-21",
+  "title": "Mask Email Address",
+  "filename": "stringUtils.js",
+  "category": "String",
+  "difficulty": "Beginner",
+  "description": "Masks part of an email address for privacy while preserving the domain.",
+  "explanation": "The maskEmail function preserves privacy by showing only the first few characters of an email while masking the rest with asterisks. It handles edge cases like missing @ signs and ensures the masked portion is readable. The truncate function complements this by safely shortening strings for display purposes without breaking words.",
+  "generatedAt": "2026-03-21T18:52:54.590Z",
+  "generatedBy": "mistral-small-latest"
+}
