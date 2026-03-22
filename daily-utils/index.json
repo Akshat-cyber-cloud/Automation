@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-03-22",
+    "title": "Human-Readable Relative Time Formatter",
+    "filename": "formatRelativeTime.js",
+    "category": "Date",
+    "difficulty": "Intermediate",
+    "description": "Converts a date into a human-readable relative time string like 'just now', '5 minutes ago', or 'in 2 hours'.",
+    "explanation": "The function calculates the time difference in seconds between the target date and now, then uses thresholds for each unit (seconds, minutes, hours, etc.) to return the most appropriate human-readable string. It handles both past and future dates gracefully and avoids complex dependencies by using basic arithmetic and conditional logic.",
+    "generatedAt": "2026-03-22T18:54:26.335Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-03-21",
     "title": "Mask Email Address",
     "filename": "stringUtils.js",
