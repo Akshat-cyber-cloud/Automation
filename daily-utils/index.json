@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-03-23",
+    "title": "Deep Merge Objects",
+    "filename": "deepMerge.js",
+    "category": "Object",
+    "difficulty": "Intermediate",
+    "description": "Recursively merges two or more objects without mutating the originals.",
+    "explanation": "Uses Reflect.ownKeys to capture all enumerable keys including symbols, then builds a new object with descriptors to preserve property attributes. Recursion handles nested objects, while Object.create(null) prevents prototype pollution. This ensures safe, non-mutating merges even with complex object graphs.",
+    "generatedAt": "2026-03-23T19:11:06.991Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-03-22",
     "title": "Human-Readable Relative Time Formatter",
     "filename": "formatRelativeTime.js",
