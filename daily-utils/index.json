@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-03-24",
+    "title": "Strong Password Validator",
+    "filename": "validationHelpers.js",
+    "category": "Validation",
+    "difficulty": "Beginner",
+    "description": "Validates if a password meets common security requirements.",
+    "explanation": "The isStrongPassword function uses regex patterns to check for required character types, providing flexible validation through an options object. isStrongPasswordWithEntropy adds entropy calculation to measure password unpredictability, helping avoid weak but complex passwords.",
+    "generatedAt": "2026-03-24T19:19:47.162Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-03-23",
     "title": "Deep Merge Objects",
     "filename": "deepMerge.js",
