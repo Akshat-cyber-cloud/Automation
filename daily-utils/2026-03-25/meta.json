@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-25",
+  "title": "Retry with Exponential Backoff",
+  "filename": "withRetry.js",
+  "category": "Async",
+  "difficulty": "Intermediate",
+  "description": "Executes an async function multiple times with exponentially increasing delays between retries on failure.",
+  "explanation": "The utility wraps an async function and retries it on failure using exponential backoff. It starts with a short delay and doubles it each retry until reaching a cap, preventing server overload. This pattern is useful for transient errors like network glitches or rate limits.",
+  "generatedAt": "2026-03-25T19:10:31.258Z",
+  "generatedBy": "mistral-small-latest"
+}
