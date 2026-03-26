@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-26",
+  "title": "Clamp a Number Within a Range",
+  "filename": "numberRange.js",
+  "category": "Math",
+  "difficulty": "Beginner",
+  "description": "Ensures a number stays within specified minimum and maximum bounds.",
+  "explanation": "The clamp function uses Math.min and Math.max to bound a value, ensuring it never exceeds the specified range. It’s useful for UI sliders, progress bars, or any input that must stay within valid thresholds. The wrap function rotates values cyclically, ideal for circular carousels or wrapping time around a 24-hour clock.",
+  "generatedAt": "2026-03-26T19:22:13.055Z",
+  "generatedBy": "mistral-small-latest"
+}
