@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-27",
+  "title": "Memoize Function Results",
+  "filename": "memoize.js",
+  "category": "Functional",
+  "difficulty": "Intermediate",
+  "description": "Memoizes function results to avoid recomputation for identical inputs.",
+  "explanation": "Uses a Map for O(1) cache lookups and stores results by serialized arguments. The default stringification handles primitives and simple objects/arrays, while the custom key function allows for more nuanced caching strategies like deep equality checks. This avoids recomputation overhead for pure functions with expensive operations.",
+  "generatedAt": "2026-03-27T19:09:43.150Z",
+  "generatedBy": "mistral-small-latest"
+}
