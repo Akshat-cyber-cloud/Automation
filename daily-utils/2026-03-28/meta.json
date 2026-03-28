@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-28",
+  "title": "Circular Buffer with Fixed Capacity",
+  "filename": "circularBuffer.js",
+  "category": "DataStructure",
+  "difficulty": "Intermediate",
+  "description": "A fixed-capacity buffer that overwrites oldest entries when full, providing O(1) enqueue/dequeue via circular indexing.",
+  "explanation": "Uses circular indexing to achieve O(1) enqueue and dequeue operations without shifting an array. The fixed capacity makes it ideal for streaming data where memory usage must be bounded. Circular buffers are widely used in audio processing, network routers, and logging systems.",
+  "generatedAt": "2026-03-28T18:59:02.612Z",
+  "generatedBy": "mistral-small-latest"
+}
