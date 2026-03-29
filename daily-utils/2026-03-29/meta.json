@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-29",
+  "title": "Viewport Intersection Observer Utility",
+  "filename": "browserViewportIntersection.js",
+  "category": "DOM",
+  "difficulty": "Intermediate",
+  "description": "Creates a reusable IntersectionObserver that tracks whether DOM elements enter or exit the viewport with minimal reflows.",
+  "explanation": "This utility abstracts the IntersectionObserver API into a reusable component that tracks which elements are visible in the viewport. It minimizes reflows by only triggering callbacks when state changes occur, making it efficient for lazy-loading, animations, or viewport-based triggers.",
+  "generatedAt": "2026-03-29T19:01:47.432Z",
+  "generatedBy": "mistral-small-latest"
+}
