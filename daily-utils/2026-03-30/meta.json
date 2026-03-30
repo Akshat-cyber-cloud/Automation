@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-30",
+  "title": "Unflatten Nested Arrays by Path",
+  "filename": "unflattenArray.js",
+  "category": "Array",
+  "difficulty": "Intermediate",
+  "description": "Reconstructs a nested array structure from flat entries paired with their path indices.",
+  "explanation": "This utility uses a Map-free approach with nested arrays to reconstruct a tree from flat entries with path strings. It handles sparse arrays and avoids mutating the input by building the structure from scratch.",
+  "generatedAt": "2026-03-30T19:17:19.579Z",
+  "generatedBy": "mistral-small-latest"
+}
