@@ -1,0 +1,11 @@
+{
+  "date": "2026-03-31",
+  "title": "Truncate String with Ellipsis",
+  "filename": "stringTruncate.js",
+  "category": "String",
+  "difficulty": "Beginner",
+  "description": "Truncates a string to a specified length and appends an ellipsis if it exceeds the limit.",
+  "explanation": "The utility provides two tightly related functions for truncating strings: one by characters and another by lines. It handles edge cases like word boundaries, custom ellipsis, and line length, making it useful for UI text rendering where space is constrained. The modern API supports optional parameters for flexibility without external dependencies.",
+  "generatedAt": "2026-03-31T19:17:32.663Z",
+  "generatedBy": "mistral-small-latest"
+}
