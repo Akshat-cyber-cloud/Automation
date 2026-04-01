@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-01",
+  "title": "String Case Converters",
+  "filename": "stringCaseHelpers.js",
+  "category": "String",
+  "difficulty": "Beginner",
+  "description": "Convert strings between camelCase, PascalCase, kebab-case, snake_case, and space case.",
+  "explanation": "These functions normalize strings from any common format to the requested case. They handle edge cases like mixed input, multiple separators, and non-alphanumeric characters. Useful for consistent data formatting across APIs and UI components.",
+  "generatedAt": "2026-04-01T19:19:17.635Z",
+  "generatedBy": "mistral-small-latest"
+}
