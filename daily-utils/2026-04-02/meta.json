@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-02",
+  "title": "Format Duration to Human-Readable String",
+  "filename": "formatDuration.js",
+  "category": "Date",
+  "difficulty": "Beginner",
+  "description": "Converts a time duration in milliseconds to a human-readable string like '2h 30m 15s'.",
+  "explanation": "The function breaks down milliseconds into the largest possible time units (months, weeks, days, hours, minutes, seconds) and constructs a readable string. It avoids external dependencies by handling edge cases like zero or negative inputs and uses simple arithmetic with predefined unit thresholds. This is useful for logging, progress indicators, or any scenario where precise time representation needs to be user-friendly.",
+  "generatedAt": "2026-04-02T19:13:44.546Z",
+  "generatedBy": "mistral-small-latest"
+}
