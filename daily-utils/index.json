@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-03",
+    "title": "Deep Flatten Object",
+    "filename": "deepFlattenObject.js",
+    "category": "Object",
+    "difficulty": "Intermediate",
+    "description": "Recursively flattens a nested object into a single-level object with dot-notation keys.",
+    "explanation": "Uses recursive traversal to process each nested object property, building dot-notation keys. This is useful for serialization, state management, or when interfacing with APIs expecting flat structures. The reverse function reconstructs the original nested shape, enabling round-trip conversions.",
+    "generatedAt": "2026-04-03T19:03:01.090Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-02",
     "title": "Format Duration to Human-Readable String",
     "filename": "formatDuration.js",
