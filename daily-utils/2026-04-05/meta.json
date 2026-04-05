@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-05",
+  "title": "Exponential Backoff Retry Utility",
+  "filename": "withRetry.js",
+  "category": "Async",
+  "difficulty": "Intermediate",
+  "description": "Executes an async function with automatic retries using exponential backoff.",
+  "explanation": "The utility implements exponential backoff with jitter to prevent thundering herd problems during retries. It's useful for network requests or operations that may temporarily fail due to transient issues.",
+  "generatedAt": "2026-04-05T19:02:06.032Z",
+  "generatedBy": "mistral-small-latest"
+}
