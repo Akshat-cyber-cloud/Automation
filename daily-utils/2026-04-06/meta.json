@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-06",
+  "title": "Format and Parse Numbers with Locale Support",
+  "filename": "numberFormat.js",
+  "category": "Math",
+  "difficulty": "Beginner",
+  "description": "Formats a number with thousands separators and optional decimal places using browser locale, or parses a formatted string back to a number.",
+  "explanation": "Uses Intl.NumberFormat for locale-aware formatting and parsing, ensuring correct separators for any locale without external dependencies. The approach handles both formatting and reverse parsing robustly by inspecting the locale's decimal separator dynamically.",
+  "generatedAt": "2026-04-06T19:17:07.142Z",
+  "generatedBy": "mistral-small-latest"
+}
