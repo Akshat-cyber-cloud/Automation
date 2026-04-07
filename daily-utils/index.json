@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-07",
+    "title": "Once Function",
+    "filename": "once.js",
+    "category": "Functional",
+    "difficulty": "Beginner",
+    "description": "Creates a function that invokes the given function only once and caches the result.",
+    "explanation": "The once function ensures a given function runs only once, which is useful for initialization tasks or expensive operations. The memoize function caches results based on input arguments, improving performance for repeated calls with the same arguments. Throttle limits how often a function can be called, which is helpful for event handlers.",
+    "generatedAt": "2026-04-07T19:20:15.229Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-06",
     "title": "Format and Parse Numbers with Locale Support",
     "filename": "numberFormat.js",
