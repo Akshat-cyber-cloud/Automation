@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-08",
+    "title": "Min-Heap Priority Queue",
+    "filename": "priorityQueue.js",
+    "category": "DataStructure",
+    "difficulty": "Intermediate",
+    "description": "Implements a generic min-heap priority queue with efficient insert and extract-min operations.",
+    "explanation": "This min-heap implementation uses an array-based binary heap structure to efficiently manage priorities. Insertion and extraction both operate in O(log n) time due to the heapify-up and heapify-down operations. It's useful for scheduling tasks, Dijkstra's algorithm, or any scenario where you need to process items by priority.",
+    "generatedAt": "2026-04-08T19:39:06.554Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-07",
     "title": "Once Function",
     "filename": "once.js",
