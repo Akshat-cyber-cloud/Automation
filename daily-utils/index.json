@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-09",
+    "title": "Toggle Dark Mode Utility",
+    "filename": "toggleDarkMode.js",
+    "category": "DOM",
+    "difficulty": "Beginner",
+    "description": "Toggle between dark and light mode by manipulating the document's theme and storing preference in localStorage.",
+    "explanation": "Uses a CSS class 'dark-mode' to switch themes, persists preference via localStorage, and respects system preference on first load. This keeps UI consistent across sessions while allowing user override.",
+    "generatedAt": "2026-04-09T19:34:31.301Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-08",
     "title": "Min-Heap Priority Queue",
     "filename": "priorityQueue.js",
