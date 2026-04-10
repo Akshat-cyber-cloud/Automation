@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-10",
+    "title": "Deeply Flatten Nested Arrays",
+    "filename": "deepFlatten.js",
+    "category": "Array",
+    "difficulty": "Beginner",
+    "description": "Recursively flattens an array of arbitrarily nested arrays into a single-level array.",
+    "explanation": "Uses Array.reduce with recursion to handle arbitrary nesting depths. Providing shallow and depth-limited variants ensures performance control for common cases while handling deep structures when needed.",
+    "generatedAt": "2026-04-10T19:09:32.925Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-09",
     "title": "Toggle Dark Mode Utility",
     "filename": "toggleDarkMode.js",
