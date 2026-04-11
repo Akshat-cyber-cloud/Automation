@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-11",
+    "title": "Mask Sensitive Strings",
+    "filename": "maskSensitive.js",
+    "category": "String",
+    "difficulty": "Beginner",
+    "description": "Masks parts of strings such as emails or credit cards by revealing only the first and last few characters.",
+    "explanation": "The core utility splits strings into visible and masked segments, ensuring safety and readability. It handles edge cases like empty strings or overly long masks gracefully, making it reusable across various sensitive data scenarios.",
+    "generatedAt": "2026-04-11T19:03:31.597Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-10",
     "title": "Deeply Flatten Nested Arrays",
     "filename": "deepFlatten.js",
