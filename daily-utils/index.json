@@ -1,5 +1,16 @@
 [
   {
+    "date": "2026-04-12",
+    "title": "Format Duration into Human-Readable String",
+    "filename": "formatDuration.js",
+    "category": "Date",
+    "difficulty": "Beginner",
+    "description": "Converts a duration in milliseconds into a human-readable string like '2h 30m 15s'.",
+    "explanation": "The utility breaks down milliseconds into days, hours, minutes, and seconds using integer division and modulus. It is useful for logging, progress tracking, or displaying elapsed time in UIs without requiring external libraries.",
+    "generatedAt": "2026-04-12T19:06:12.220Z",
+    "generatedBy": "mistral-small-latest"
+  },
+  {
     "date": "2026-04-11",
     "title": "Mask Sensitive Strings",
     "filename": "maskSensitive.js",
