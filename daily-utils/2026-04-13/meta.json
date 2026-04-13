@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-13",
+  "title": "Recursively Rename Object Keys Using a Mapping Function",
+  "filename": "deepRenameKeys.js",
+  "category": "Object",
+  "difficulty": "Intermediate",
+  "description": "Recursively transforms all object keys in a nested structure using a provided mapping function.",
+  "explanation": "The function recursively traverses objects and arrays, applying a key mapping function to every key. This is useful for normalizing API responses, converting between naming conventions, or standardizing internal data formats. The included snakeToCamel and camelToSnake utilities handle common transformations.",
+  "generatedAt": "2026-04-13T19:36:38.279Z",
+  "generatedBy": "mistral-small-latest"
+}
