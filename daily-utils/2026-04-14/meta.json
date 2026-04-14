@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-14",
+  "title": "Password Strength Validator",
+  "filename": "isStrongPassword.js",
+  "category": "Validation",
+  "difficulty": "Intermediate",
+  "description": "Validates if a password meets minimum strength requirements with configurable rules.",
+  "explanation": "This function checks passwords against common security requirements using regex for efficient pattern matching. It is useful for enforcing password policies in registration or settings forms to enhance security.",
+  "generatedAt": "2026-04-14T19:39:30.000Z",
+  "generatedBy": "mistral-small-latest"
+}
