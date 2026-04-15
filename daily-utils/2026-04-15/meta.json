@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-15",
+  "title": "Timeout Wrapper for Promises",
+  "filename": "withTimeout.js",
+  "category": "Async",
+  "difficulty": "Beginner",
+  "description": "Wraps an async operation to enforce a maximum execution time.",
+  "explanation": "The utility uses Promise.race to compete between the original promise and a timeout promise. This pattern is simple and works with any promise-based operation. It’s useful for preventing long-running operations from hanging indefinitely, improving robustness in network requests or heavy computations.",
+  "generatedAt": "2026-04-15T19:41:32.352Z",
+  "generatedBy": "mistral-small-latest"
+}
