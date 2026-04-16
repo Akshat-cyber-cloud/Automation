@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-16",
+  "title": "Number Range Helpers: Clamp, Wrap, and Remap",
+  "filename": "numberHelpers.js",
+  "category": "Math",
+  "difficulty": "Beginner",
+  "description": "Provides utilities to constrain, wrap, and re-map numbers within a range.",
+  "explanation": "These helpers solve common numeric range problems: clamping prevents values from exceeding limits, wrapping keeps values cyclical within a range, and remapping converts values between different scales. They’re useful in UI animations, game development, and data visualization where normalized or constrained values are needed.",
+  "generatedAt": "2026-04-16T19:36:22.060Z",
+  "generatedBy": "mistral-small-latest"
+}
